@@ -1,0 +1,1 @@
+Odkaz na dbdiagram: https://dbdiagram.io/d/Vlastni-relacni-databaze-690dc4eb6735e11170b71c00
