@@ -40,7 +40,7 @@ CREATE TABLE `orders` (
 
 CREATE TABLE `reviews` (
   `id_review` integer PRIMARY KEY AUTO_INCREMENT,
-  `id_priduct` integer,
+  `id_product` integer,
   `id_user` integer,
   `rating` integer,
   `comment` text,
@@ -50,7 +50,7 @@ CREATE TABLE `reviews` (
 CREATE TABLE `cart_item` (
   `id_cart` integer PRIMARY KEY AUTO_INCREMENT,
   `id_order` integer,
-  `id_priduct` integer,
+  `id_product` integer,
   `quantity` integer
 );
 
