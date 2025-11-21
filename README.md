@@ -5,7 +5,7 @@ Krátký popis a zdroje pro projekt schématu databáze.
 - **dbdiagram:** https://dbdiagram.io/d/Vlastni-relacni-databaze-690dc4eb6735e11170b71c00
 - **Obrázek schématu:**
 
-![Vlastní relační databáze](./Vlastní relační databáze.png)
+<img width="1113" height="682" alt="Vlastní relační databáze" src="https://github.com/user-attachments/assets/a42cd656-c1bc-4db3-b04b-8f008ddc333a" />
 
 Instrukce pro generování demo dat (skript se nachází v `scripts/faker_data.py`):
 
